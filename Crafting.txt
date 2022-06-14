@@ -1,0 +1,6 @@
+Campfire
+{
+-Wood:4;
+-Stick:10;
+-Stone:10;
+}
